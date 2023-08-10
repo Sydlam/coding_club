@@ -15,8 +15,10 @@ For coding club *purr*poses (lol), please be aware of the following in order to 
 # How to Fork
 
 1.) Fork this repository into your own personal branch
-            
-    "A fork is a new repository that shares code and visibility settings with the     original “up-stream” repository. Forks are often used to iterate on ideas or changes  before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository."
+           
+            "A fork is a new repository that shares code and visibility settings with the original “up-stream” repository. 
+            Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, 
+            such as in open source projects or when a user does not have write access to the upstream repository."
   
    *Do not clone the main repo. Forking it will allow for changes to your own repo that do not affect the main
 

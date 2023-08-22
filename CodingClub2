@@ -841,7 +841,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 16,
    "id": "49eeb91c-7f52-4983-8c34-94464c001e7b",
    "metadata": {},
    "outputs": [],
@@ -936,7 +936,9 @@
   {
    "cell_type": "markdown",
    "id": "8278608e-8304-480b-aef6-0a4e28a3f919",
-   "metadata": {},
+   "metadata": {
+    "tags": []
+   },
    "source": [
     "![alternatvie text](https://www.pbh2.com/wordpress/wp-content/uploads/2013/12/pusheen-party.gif)"
    ]

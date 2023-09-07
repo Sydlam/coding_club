@@ -72,5 +72,10 @@ For a visualization: https://www.earthdatascience.org/images/earth-analytics/git
 
 3.) New files will be added to your local folder and should enumerate with updated changes
 
+# Having issues with 'git is not an internal command'? 
+## Here is a solution!
+https://git-scm.com/downloads
+Go ahead and download the Standalone 64-bit package compatible to your device (Mac/Windows)
+
 # Now We're Up and Running!
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqeGNhM215YjQzbmlxeXRwcGphbWUybDllMmh1MXE2Z3k2Mnc0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o8hU1dnTEgrde/giphy.gif" width="350" height="350">

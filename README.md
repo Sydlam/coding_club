@@ -62,15 +62,21 @@ For coding club *purr*poses (lol), please be aware of the following in order to 
 # To Pull Files Updated From the Main Repo
 For a visualization: https://www.earthdatascience.org/images/earth-analytics/git-version-control/git-fork-clone-flow.png
 
-1.) To check what branch you're in, Enter:
+1.) First, make sure you have gone through adding and pushing your changes to your fork before getting parent updates
+     
+2.) To check what branch you're in, Enter:
 
      git remote -v
+     
+3.) To access the parent branch, Enter:
 
-2.) Enter: 
+     git fetch upstream
 
-    git pull
+4.) Integrate changes, Enter: 
 
-3.) New files will be added to your local folder and should enumerate with updated changes
+    git merge upstream/master
+
+5.) New files will be added to your local folder and should enumerate with updated changes
 
 # Having issues with 'git is not an internal command'? 
 ## Here is a solution!
